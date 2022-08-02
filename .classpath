@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Data Structure Problems/src/io/murad/problems/stack/Reverse_a_string_using_stack"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
